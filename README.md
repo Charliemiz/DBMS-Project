@@ -5,7 +5,8 @@ This project provides a simple command-line interface (CLI) for querying our SQL
 ## File Structure
 
 - `script.py` — The main interactive Python script.
-- `concerts.db` — Our SQLite database 
+- `concerts.db` — Our SQLite database.
+- Keep in mind that the files **must** be in the same directory
 
 ## Requirements
 
